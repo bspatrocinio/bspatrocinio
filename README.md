@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barbie
 - 👀 I’m interested in Web Development and Digital Marketing
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me ... You can email me at bspatrocinio@gmail.com
 - 😄 Pronouns: she/her
